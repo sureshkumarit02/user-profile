@@ -1,0 +1,18 @@
+{
+ “user”: {
+   “email”: “someone1@example.com”,
+   “password”: “mys3cr3T”
+   “firstName”: “Firstname”,
+   “lastName”: “Lastname”,
+   “title”: “Mr”,
+   “primaryTelephone”: “442071234567”,
+   “homeAddress”: {
+     “line1”: “The White House”,
+     “line2”: “1600 Pennsylvania Ave NW”,
+     “townCity”: “Washington”,
+     “postcode”: “20500”,
+     “state”: “DC”,
+     “country”: “USA”
+   },
+   “jobTitle”: “CEO”
+ }}
