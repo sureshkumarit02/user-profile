@@ -1,18 +1,28 @@
+011000000030383
+
 {
- “user”: {
-   “email”: “someone1@example.com”,
-   “password”: “mys3cr3T”
-   “firstName”: “Firstname”,
-   “lastName”: “Lastname”,
-   “title”: “Mr”,
-   “primaryTelephone”: “442071234567”,
-   “homeAddress”: {
-     “line1”: “The White House”,
-     “line2”: “1600 Pennsylvania Ave NW”,
-     “townCity”: “Washington”,
-     “postcode”: “20500”,
-     “state”: “DC”,
-     “country”: “USA”
+ "user": {
+   "id": "7b66cb5d-4771-4951-bf7a-978952d77955",
+   "email": "someone1@example.com",
+   "firstName": "Firstname",
+   "lastName": "Lastname",
+   "title": "Mr",
+   "primaryTelephone": "442071234567",
+   "homeAddress": {
+     "line1": "The White House",
+     "line2": "1600 Pennsylvania Ave NW",
+     "townCity": "Washington",
+     "postcode": "20500",
+     "state": "DC",
+     "country": "USA"
    },
-   “jobTitle”: “CEO”
- }}
+   "demographics": {
+     "industry": {"code": "ACC"},
+     "position": {"code": "AN"},
+     "responsbility": {"code": "FIN"}
+   },
+   "jobTitle": "CEO",
+   "source": "legacy-signup",
+   "nonLogin": false
+ }
+}
